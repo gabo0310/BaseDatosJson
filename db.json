@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "Comments": [
     {
-      "id": 1,
-      "title": "hello"
+      "idUser": 1,
+      "title": "Mi primer comentario",
+      "Comment": "Me gusta mucho la pagina"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
