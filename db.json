@@ -3,6 +3,7 @@
     {
       "id": 1,
       "iduser": 1,
+      "idpost": 1,
       "title": "Comentario 1",
       "comment": "Mi Primer Comentario"
     }
