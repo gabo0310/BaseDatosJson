@@ -2,10 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hola"
+      "iduser": 1
+      "title": "Comentario 1",
+      "comment": "Mi Primer Comentario"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
