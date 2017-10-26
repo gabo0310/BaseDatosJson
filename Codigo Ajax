@@ -1,0 +1,13 @@
+$.ajax('http://my-json-server.typicode.com/gabo0310/BaseDatosJson/posts', {
+  method: 'POST',
+  posts: {
+    "id": 1,
+    "iduser": 1,
+    "title": "Comentario 1",
+    "comment": "Mi Primer Comentario"
+  }
+  
+  
+}).then(function(posts) {
+  console.log(posts);
+});
