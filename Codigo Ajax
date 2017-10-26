@@ -11,3 +11,9 @@ $.ajax('http://my-json-server.typicode.com/gabo0310/BaseDatosJson/posts', {
 }).then(function(posts) {
   console.log(posts);
 });
+
+
+
+https://github.com/gabo0310/BaseDatosJson/blob/master/db.json
+https://my-json-server.typicode.com/
+https://github.com/typicode/jsonplaceholder#how-to
