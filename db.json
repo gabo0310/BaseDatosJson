@@ -2,8 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "Titulo Comentario",
-      "comment": "Mi primer comentario"
+      "title": "Titulo Comentario"
     }
   ]
 }
